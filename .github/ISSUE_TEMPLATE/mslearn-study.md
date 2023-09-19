@@ -5,9 +5,8 @@ about: Epic template
 
 # Goal
 
-As the `[who]`, I want to `[what]` so that `[why]`.
+Link: `url`
 
-`[list of scope]`
         
 # Acceptance criteria
  - `Complete all MS Learn module tasks`
