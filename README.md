@@ -34,7 +34,7 @@ The main objective is to immerse those involved in the challenge in real situati
 Therefore, it is very important to follow a process that takes into account 3 basic pillars:
 - **Get Together:** People involved in the project must meet once during the week to align objectives and expectations, in addition to clarifying any doubts
 - **Commitment:** Those involved in the project commit to the activities, prioritizing the tasks that will be developed/executed
-**Achievement:** at the end of the week, results and achievements are presented. It's time to celebrate and recap what was achieved after the first week.
+- **Achievement:** at the end of the week, results and achievements are presented. It's time to celebrate and recap what was achieved after the first week.
 
 Activities follow the principles each week.
 
