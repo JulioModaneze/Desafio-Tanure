@@ -27,8 +27,6 @@ At the end of the challenge, it will be possible to work with the IaC model, fro
 
 As a basis for this challenge, the Git Project will be used to manage learning activities, as well as other activities related to the final challenges.
 
-Teste #29
-
 # Timeline
 
 The main objective is to immerse those involved in the challenge in real situations related to the day-to-day lives of large companies that work with technology in Brazil and around the world.
